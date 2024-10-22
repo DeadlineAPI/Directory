@@ -1,10 +1,3 @@
-# Directory
+# DeadlineAPI - Directory
 
-## Run Docker
-
-
-Execute 
-```
-docker compose up --build
-```
-to bring up the directory server on localhost port 8083.
+This is the repository containing the directory for [deadlineapi.org](deadlineapi.org).
