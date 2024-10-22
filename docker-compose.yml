@@ -1,5 +1,5 @@
 services:
-  web:
+  directory:
     build: .
     ports:
       - "8083:80"
